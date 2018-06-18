@@ -17,11 +17,10 @@ about: Bif fix.
 
 
 ## :white_check_mark: Check
-
 - [ ] Comment
-- [ ] Test
+- [ ] Test Case
+- [ ] Test passed
 
 ## :pray:Feedback
 - [ ] Fix typo.
 - [ ] failed to test.
-
