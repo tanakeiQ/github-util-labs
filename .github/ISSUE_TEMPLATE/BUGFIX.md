@@ -3,16 +3,16 @@ name: Bug fix
 about: Create a bug report.
 ---
 
-# Screenshot
+## :pushpin: Screenshot
 
-# Description
+## :memo: Description
 
-# How to fix?
+# :sparkling_heart: How to fix?
 
-# Todos
+# :white_check_mark: Todos
 - [ ]
 - [ ]
 - [ ]
 
-# Quotes
+# :link: Quotes
 
