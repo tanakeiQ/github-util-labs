@@ -7,12 +7,12 @@ about: Create a bug report.
 
 ## :memo: Description
 
-# :sparkling_heart: How to fix?
+## :sparkling_heart: How to fix?
 
-# :white_check_mark: Todos
+## :white_check_mark: Todos
 - [ ]
 - [ ]
 - [ ]
 
-# :link: Quotes
+## :link: Quotes
 
