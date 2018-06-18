@@ -3,16 +3,16 @@ name: Feature
 about: Create a issue to implement feature request
 ---
 
-# Screenshot
+## :pushpin: Screenshot
 
-# Request
+# :love_letter: Request
 
-# How?
+# :question: How?
 
-# Todos
+# :white_check_mark: Todos
 - [ ]
 - [ ]
 - [ ]
 
-# Quotes
+# :link: Quotes
 
