@@ -1,9 +1,12 @@
----
-name: Bug fix
-about: Bif fix.
+## Title template
+
+Issue type | Description
+--- | ---
+bugfix | **※ Prepend :bug: to title**
+feature | **※ Prepend :+1: to title**
 
 ---
-**※ Prepend :bug: to title**
+※Remove above
 
 :link: #
 
