@@ -1,0 +1,43 @@
+<div class="column login cw-well ">
+
+      <form class="login" action="/login" accept-charset="UTF-8" method="post" novalidate="novalidate"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="VMawq024d4o6/tPLJndJfVVu6UtcpNCpnt/TLtyJ+rB/S0WVkS5VM9Fe6jkhdbI/GJFYXVxQbRjjYbnk/FjNww==">
+
+        <div class="cw-form_group">
+          <label for="username">メールアドレス</label>
+          <input type="text" name="username" id="username" required="required" autofocus="autofocus" placeholder="メールアドレスを入力してください" class="cw-form_control">
+        </div>
+        <div class="cw-form_group">
+          <label for="password">パスワード</label>
+          <input type="password" name="password" id="password" value="" required="required" placeholder="パスワードを入力してください" class="cw-form_control">
+        </div>
+
+        <p class="forget_password">
+          <a href="/password_reset_requests/new">パスワードをお忘れですか？</a>
+        </p>
+
+        <p class="submit">
+          <input type="submit" name="commit" value="ログインする" class="cw-button cw-button_highlight">
+          <input type="hidden" name="enable_auto_login" id="enable_auto_login_off" value="0">
+          <input type="checkbox" name="enable_auto_login" id="enable_auto_login" value="1" checked="checked"> <label for="enable_auto_login">ログイン状態を保存する（1ヶ月間）</label>
+        </p>
+</form>
+      <div class="thirdparty">
+        <label class="sns">他のアカウントでも簡単ログイン！</label>
+        <div class="auth_buttons">
+          <ul class="list_unstyled">
+            <li>
+              <a class="cw-social_button cw-social_button_sm cw-social_button_fb cw-button_block" rel="nofollow" href="/auth/facebook">
+                <span class="sns_icon"></span><span class="cw-social_button_label">Facebook</span>
+</a>            </li>
+            <li>
+              <a class="cw-social_button cw-social_button_sm cw-social_button_yj cw-button_block" rel="nofollow" href="/auth/yahoojp">
+                <span class="sns_icon"></span><span class="cw-social_button_label">Yahoo!</span>
+</a>            </li>
+            <li class="last-child">
+              <a class="cw-social_button cw-social_button_sm cw-social_button_go cw-button_block" rel="nofollow" href="/auth/google_oauth2">
+                <span class="sns_icon"></span><span class="cw-social_button_label">Google+</span>
+</a>            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
